@@ -1,0 +1,46 @@
+# Конфигурация LVAlerts
+# ВАЖНО: Не меняйте имена ключей (telegram, discord, mysql, settings)
+
+telegram:
+  # Токен бота Telegram
+  token: ""
+
+  # Список ID чатов для получения уведомлений
+  alert-recipients:
+    - ""
+    - ""
+    - ""
+
+  # ID для получения детальных отчетов (только один)
+  report-recipient: ""
+
+discord:
+  # Токен бота Discord
+  token: ""
+
+  # Ваш ID в Discord для личных сообщений
+  your-id: ""
+
+  # ID канала для статистики
+  channel-id: ""
+
+mysql:
+  # Настройки базы данных
+  host: ""
+  port:
+  database: ""
+  username: ""
+  password: ""
+
+settings:
+  # Интервал проверки сессий в секундах
+  check-interval: 5
+
+  # Порог алмазов для мгновенного оповещения
+  diamond-threshold: 45
+
+  # Максимальная длительность сессии в секундах (5 минут)
+  session-time: 300
+
+  # Время неактивности для завершения сессии в секундах
+  inactivity-time: 30

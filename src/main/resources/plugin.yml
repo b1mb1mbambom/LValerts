@@ -1,0 +1,18 @@
+name: LVAlerts
+version: '1.0.0'
+main: com.lummyvibe.LValerts
+api-version: '1.21'
+author: LummyVibe
+description: Мгновенные оповещения в Telegram и Discord с историей сессий
+website: https://t.me/anti_xray
+
+commands:
+  lvalerts:
+    description: Команды плагина LVAlerts
+    usage: /<command> [reload|test|stats|history|debug]
+    permission: lvalerts.admin
+
+permissions:
+  lvalerts.admin:
+    description: Админ-права плагина LVAlerts
+    default: op
