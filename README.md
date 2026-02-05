@@ -15,7 +15,7 @@ Smart Alerts: If a player mines more than 45 diamonds, the plugin will immediate
 Continuous Improvement: This plugin is currently in active development. It will be further improved and updated with new features and optimizations in the future.
 
 Bug Reports & Feedback
-If you encounter any bugs or have suggestions, please report them directly to me via Telegram: [**@J3step**](https://t.me/J3step).
+If you encounter any bugs or have suggestions, please report them directly to me via Telegram: [**@b1mb1mbambom**](https://t.me/b1mb1mbambom).
 
 ---
 
@@ -32,4 +32,5 @@ If you encounter any bugs or have suggestions, please report them directly to me
 
 Баги и обратная связь
 
-Если вы обнаружили ошибку или у вас есть предложения, пожалуйста, сообщите мне об этом в Telegram: [**@J3step**](https://t.me/J3step).
+Если вы обнаружили ошибку или у вас есть предложения, пожалуйста, сообщите мне об этом в Telegram: [**@b1mb1mbambom**](https://t.me/b1mb1mbambom).
+
